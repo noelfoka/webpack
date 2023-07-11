@@ -135,8 +135,8 @@ Example commands:
 👤 **Noel FOKA**
 
 - GitHub: [@noelfoka](https://github.com/noelfoka)
-- Twitter: [@MasumaJaffery](https://twitter.com/noelnomgne)
-- LinkedIn: [Masuma Jaffery](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
+- Twitter: [@noelnomgne](https://twitter.com/noelnomgne)
+- LinkedIn: [noel foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
